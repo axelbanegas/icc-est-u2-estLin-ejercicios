@@ -4,6 +4,10 @@
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "c:\\Users\\ramir\\Desktop\\x\\Estructura de Datos\\icc-est-u2-estLin-ejercicios-1\\lib\\hamcrest-core-1.3.jar",
+        "c:\\Users\\ramir\\Desktop\\x\\Estructura de Datos\\icc-est-u2-estLin-ejercicios-1\\lib\\junit-jupiter-api-5.7.0.jar",
+        "c:\\Users\\ramir\\Desktop\\x\\Estructura de Datos\\icc-est-u2-estLin-ejercicios-1\\lib\\student-utils.jar",
+        "c:\\Users\\ramir\\Desktop\\x\\Estructura de Datos\\icc-est-u2-estLin-ejercicios-1\\lib\\apiguardian-api-1.1.0.jar",
+        "c:\\Users\\ramir\\Desktop\\x\\Estructura de Datos\\icc-est-u2-estLin-ejercicios-1\\lib\\junit-platform-console-standalone-1.7.0.jar"
     ]
 }
